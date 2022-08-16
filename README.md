@@ -5,3 +5,5 @@ https://www.trendmicro.com/en_us/research/21/e/what-we-know-about-darkside-ranso
 https://www.zdnet.com/article/researchers-track-down-five-affiliates-of-darkside-ransomware-service/
 
 https://us-cert.cisa.gov/ncas/analysis-reports/ar21-189a
+
+https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside
